@@ -180,3 +180,25 @@ footer{
   border-top: 1.5px solid rgb(61, 66, 61);
   width: 90%;
 }
+
+@media (max-width:375px){
+  .grid_c2{
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width:375px){
+  .grid_c3{
+    grid-template-columns: 1fr;
+  }
+  }
+}
+
+@media (max-width:375px){
+  .request a{
+    grid-template-columns: 1fr;
+  }
+}
+ 
+
+
